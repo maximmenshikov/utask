@@ -1,0 +1,11 @@
+LIBRARY	"UTaskSrv"
+;DESCRIPTION  'UTaskSrv Windows CE Dynamic Link Library'
+EXPORTS
+   UTS_Close
+   UTS_Deinit
+   UTS_Init
+   UTS_IOControl
+   UTS_Open
+   UTS_Read
+   UTS_Seek
+   UTS_Write

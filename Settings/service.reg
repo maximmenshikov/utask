@@ -1,0 +1,16 @@
+REGEDIT4
+
+
+;  UTask Project - Free TaskManager for Windows Mobile
+;  This registry part is provided "AS IS" without any warranties.
+;  (C) UltraShot
+
+
+[HKEY_LOCAL_MACHINE\Services\UTaskSrv]
+"Dll"="UTaskSrv.dll"
+"Prefix"="UTS"
+"Flags"=dword:00000000
+"Index"=dword:00000000
+"Context"=dword:00000000
+"Keep"=dword:00000001
+"Order"=dword:00000063

@@ -1,0 +1,7 @@
+LIBRARY	"UTaskSetupDLL"
+;DESCRIPTION  'UTaskSetupDLL Windows CE Dynamic Link Library'
+EXPORTS
+	Install_Init
+	Install_Exit
+	Uninstall_Init
+	Uninstall_Exit
